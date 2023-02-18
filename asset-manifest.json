@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Hotd-Photo-Gallery/static/css/main.d5dce2cc.css",
+    "main.js": "/React-Hotd-Photo-Gallery/static/js/main.1bba1075.js",
+    "index.html": "/React-Hotd-Photo-Gallery/index.html",
+    "main.d5dce2cc.css.map": "/React-Hotd-Photo-Gallery/static/css/main.d5dce2cc.css.map",
+    "main.1bba1075.js.map": "/React-Hotd-Photo-Gallery/static/js/main.1bba1075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5dce2cc.css",
+    "static/js/main.1bba1075.js"
+  ]
+}
